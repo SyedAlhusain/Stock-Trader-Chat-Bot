@@ -4,12 +4,15 @@
 
 # Run Locally
 
-- 1. Clone Repositoy
-- 2. Install Dependencies
+## 1. Clone Repositoy
+```bash
+git clone https://github.com/SyedAlhusain/Stock-Trader-Chat-Bot.git
+```
+## 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-- 3. Run the Flask Application:
+## 3. Run the Flask Application:
 ```bash
 python app.py
 ```
