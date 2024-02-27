@@ -4,7 +4,7 @@ from openai import OpenAI
 app = Flask(__name__)
 
 # Initialize OpenAI client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="insert-your-api-key-here")
 
 # Function to get AI response
 def chat_gpt(prompt):
